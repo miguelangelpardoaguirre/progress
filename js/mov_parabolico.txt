@@ -1,0 +1,16 @@
+El movimiento parabólico es un tipo de movimiento que sigue una trayectoria en forma de parábola, caracterizado por la combinación de dos movimientos: uno horizontal y otro vertical. Se produce, por ejemplo, cuando un objeto es lanzado al aire y se ve afectado por la gravedad.
+
+Características Principales:
+Trayectoria: La trayectoria es una parábola, simétrica respecto al punto más alto (máxima altura).
+
+Componentes del movimiento:
+
+Horizontal: Se mueve a velocidad constante, ya que no hay aceleración (despreciando la resistencia del aire).
+Vertical: Está sujeto a la aceleración debida a la gravedad (aproximadamente 
+9.81
+ 
+m/s
+2
+9.81m/s 
+2
+  hacia abajo)

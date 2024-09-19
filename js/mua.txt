@@ -1,0 +1,86 @@
+Movimiento Uniforme Acelerado (MUA)
+Aceleración constante: La velocidad del objeto cambia de manera uniforme con el tiempo.
+
+Ecuaciones del movimiento:
+
+La posición en función del tiempo se describe mediante:
+𝑥
+(
+𝑡
+)
+=
+𝑥
+0
++
+𝑣
+0
+⋅
+𝑡
++
+1
+2
+𝑎
+𝑡
+2
+x(t)=x 
+0
+​
+ +v 
+0
+​
+ ⋅t+ 
+2
+1
+​
+ at 
+2
+ 
+La velocidad en función del tiempo se describe como:
+𝑣
+(
+𝑡
+)
+=
+𝑣
+0
++
+𝑎
+⋅
+𝑡
+v(t)=v 
+0
+​
+ +a⋅t
+donde:
+
+𝑥
+(
+𝑡
+)
+x(t) es la posición en el tiempo 
+𝑡
+t,
+𝑥
+0
+x 
+0
+​
+  es la posición inicial,
+𝑣
+0
+v 
+0
+​
+  es la velocidad inicial,
+𝑎
+a es la aceleración constante,
+𝑡
+t es el tiempo.
+Gráfica: La representación de la posición frente al tiempo es una parábola, y la velocidad frente al tiempo es una línea recta.
+
+Ejemplo: Un objeto que cae libremente bajo la influencia de la gravedad (sin resistencia del aire) está en un MUA, ya que su aceleración es constante.
+
+
+
+
+

@@ -1,0 +1,50 @@
+
+El Movimiento Rectilíneo Uniforme (MRU) es un tipo de movimiento en el que un objeto se desplaza a lo largo de una línea recta con una velocidad constante. Esto significa que no hay aceleración, y la velocidad no varía con el tiempo.
+
+Características del MRU:
+Velocidad constante: La magnitud y dirección de la velocidad permanecen inalteradas.
+
+Trayectoria: Es una línea recta.
+
+Ecuación del movimiento:
+
+La posición del objeto en función del tiempo se puede expresar como:
+𝑥
+(
+𝑡
+)
+=
+𝑥
+0
++
+𝑣
+⋅
+𝑡
+x(t)=x 
+0
+​
+ +v⋅t
+donde:
+
+𝑥
+(
+𝑡
+)
+x(t) es la posición en el tiempo 
+𝑡
+t,
+𝑥
+0
+x 
+0
+​
+  es la posición inicial,
+𝑣
+v es la velocidad constante,
+𝑡
+t es el tiempo.
+Gráfica: En un gráfico de posición frente al tiempo, la representación es una línea recta con pendiente igual a la velocidad.
+
+Ejemplos: Un automóvil que viaja a una velocidad constante en una carretera recta, o un tren que se desplaza uniformemente.
+
+El MRU es un concepto fundamental en cinemática y proporciona una base para entender otros tipos de movimientos más complejos.
