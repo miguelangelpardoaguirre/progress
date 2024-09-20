@@ -7,6 +7,7 @@
     list-style: none;
 }
 
+
 body{
     font-family: "Poppins", sans-serif;
 }
@@ -15,6 +16,22 @@ body{
     max-width: 1200px;
     margin: 0 auto;
 }
+.header a{
+    text-decoration: none;
+}
+
+.header_movimientos a{
+    text-decoration: none;
+}
+
+.header_leyes a{
+    text-decoration: none;
+}
+
+.header_conversion a{
+    text-decoration: none;
+}
+
 .header{
     background-image:linear-gradient(
     rgba(0, 0, 0, 0.4),
@@ -27,7 +44,7 @@ body{
     display: flex;
     align-items: center;
 }
-.header_heroes{
+.header_movimientos{
     background-image:linear-gradient(
     rgba(0, 0, 0, 0.4),
     rgba(0, 0, 0, 0.638)),
@@ -53,11 +70,11 @@ body{
     align-items: center;
 }
 
-.header_multi{
+.header_conversion{
     background-image:linear-gradient(
     rgba(0, 0, 0, 0.4),
     rgba(0, 0, 0, 0.638)),
-    url(images/multi.jpeg);
+    url(../img/unidades.png);
     background-position: center top;
     background-repeat: no-repeat;
     background-size:cover;
@@ -388,7 +405,22 @@ link h3{
     color:antiquewhite;
     display: block;
     margin-bottom: 15px;
+    text-decoration: none;
 }
+
+.final{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 1em;
+
+}
+
+.final a{
+    font-size: 20px;
+    color: aliceblue;
+}
+
 
 
 @media(max-width:900px){
@@ -494,4 +526,5 @@ link h3{
         flex-direction: column;
         text-align: center;
     }
+
 }
